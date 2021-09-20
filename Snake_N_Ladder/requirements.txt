@@ -1,0 +1,6 @@
+pygame==2.0.1
+background
+board
+arrow button
+dice
+2 palyers
